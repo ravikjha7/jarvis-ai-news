@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jarvis-ai-news/static/css/main.ff73cdbd.css",
-    "main.js": "/jarvis-ai-news/static/js/main.e1aff06b.js",
+    "main.js": "/jarvis-ai-news/static/js/main.aca0caf2.js",
     "index.html": "/jarvis-ai-news/index.html",
     "main.ff73cdbd.css.map": "/jarvis-ai-news/static/css/main.ff73cdbd.css.map",
-    "main.e1aff06b.js.map": "/jarvis-ai-news/static/js/main.e1aff06b.js.map"
+    "main.aca0caf2.js.map": "/jarvis-ai-news/static/js/main.aca0caf2.js.map"
   },
   "entrypoints": [
     "static/css/main.ff73cdbd.css",
-    "static/js/main.e1aff06b.js"
+    "static/js/main.aca0caf2.js"
   ]
 }
